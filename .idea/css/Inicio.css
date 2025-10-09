@@ -1,23 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Oswald:wght@200..700&display=swap');
+
 menu {
     overflow: hidden;
+    text-align: center;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 122px;
+    top: 0;
+    left: 0;
+
+}
+
+#barheader {
+    height: 179px;
     width: 100%;
 }
 
 #izquierda {
     width: 30%;
     float: left;
-    text-align: left;
+    height: 100%;
+    margin-top: 117px;
+    position: relative;
+    z-index: 2;
 }
 
 #derecha {
     width: 30%;
+    height: 100%;
     float: right;
-    text-align: right;
-    margin-right: 50px;
+    text-align: center;
+    align-items: center;
+    margin-top: 117px;
+    position: relative;
+    z-index: 2;
+}
+
+#logo {
+    height: 120px;
+    display: inline-block;
+}
+
+.logoimg {
+    height: 180px;
+    position: relative;
+    z-index: 2;
 }
 
 .textomenu {
     text-decoration: none;
     margin-right: 30px;
+    font-size: 19px;
+    font-family: "Oswald";
+    font-weight: bold;
+    color: white;
 }
 
+#absoluta {
+    position: absolute;
+    top: 105px;
+    left: 0;
+    height: 67px;
+    width: 100%;
+    background-color: #334c71;
+    z-index: 1;
+}
