@@ -1,4 +1,23 @@
-.texto-animao {
-    margin: 0 auto;
-    font-size: 14px;
+menu {
+    overflow: hidden;
+    width: 100%;
 }
+
+#izquierda {
+    width: 30%;
+    float: left;
+    text-align: left;
+}
+
+#derecha {
+    width: 30%;
+    float: right;
+    text-align: right;
+    margin-right: 50px;
+}
+
+.textomenu {
+    text-decoration: none;
+    margin-right: 30px;
+}
+
