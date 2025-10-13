@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="Menú terminao chulo chulo">
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="menu fijo y cambia al scrollear">
       <change beforePath="$PROJECT_DIR$/.idea/css/Inicio.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/Inicio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/Inicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/Inicio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,8 @@
       <workItem from="1760078341538" duration="42000" />
       <workItem from="1760079930211" duration="1368000" />
       <workItem from="1760082015494" duration="13000" />
-      <workItem from="1760082033851" duration="7619000" />
+      <workItem from="1760082033851" duration="8033000" />
+      <workItem from="1760344577790" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="Principio :D">
       <option name="closed" value="true" />
@@ -127,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760004257412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="menu fijo y cambia al scrollear">
+      <option name="closed" value="true" />
+      <created>1760091803152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760091803152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +157,7 @@
     <MESSAGE value="Segundo commit menú en la primera pagina" />
     <MESSAGE value="Commit de prueba" />
     <MESSAGE value="Menú terminao chulo chulo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menú terminao chulo chulo" />
+    <MESSAGE value="menu fijo y cambia al scrollear" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu fijo y cambia al scrollear" />
   </component>
 </project>
