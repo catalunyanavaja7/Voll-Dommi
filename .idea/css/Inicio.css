@@ -7,23 +7,30 @@ body, html {
 }
 
 menu {
+    overflow: hidden;
     text-align: center;
-    margin: 0 auto;
-    position: fixed;
+}
+
+header {
+    position: absolute;
     width: 100%;
-    background: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    box-sizing: border-box;
-    transition: all 0.6s ease;
-    z-index: 1000;
+    height: 122px;
+    top: 0;
+    left: 0;
+
+}
+
+#barheader {
+    height: 179px;
+    width: 100%;
 }
 
 #izquierda {
     width: 30%;
     float: left;
+    margin-left: -70px;
     height: 100%;
+    margin-top: 117px;
     position: relative;
     z-index: 2;
 }
@@ -34,33 +41,20 @@ menu {
     float: right;
     text-align: center;
     align-items: center;
+    margin-top: 117px;
     position: relative;
     z-index: 2;
 }
 
 #logo {
-    height: 155px;
-    display: flex;
-    text-align: center;
-    align-items: center;
-    transition: all 0.6s ease;
+    height: 120px;
+    display: inline-block;
 }
 
 .logoimg {
-    display: block;
-    height: 155px;
+    height: 180px;
     position: relative;
-    transition: all 0.6s ease;
     z-index: 2;
-}
-
-.logotexto {
-
-    font-weight: bold;
-    color: red;
-    visibility: hidden;
-    opacity: 0;
-    transition: opacity 0.6s ease;
 }
 
 .textomenu {
@@ -69,93 +63,192 @@ menu {
     font-size: 19px;
     font-family: "Oswald";
     font-weight: bold;
-    color: black;
-    position: relative;
-    transition: color 0.6s ease;
-}
-
-.textomenu::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 2px;
-    background: black;
-    transform: scaleX(0);
-    transform-origin: right;
-    transition: transform 0.4s ease;
-}
-
-.textomenu:hover::after {
-    transform: scaleX(1);
-    transform-origin: left;
+    color: white;
 }
 
 #absoluta {
     position: absolute;
-    top: 95px;
+    top: 105px;
     left: 0;
-    height: 50px;
-    width: 99.9%;
+    height: 67px;
+    width: 100%;
     background-color: #334c71;
     z-index: 1;
-    transition: opacity 0.3s ease, height 0.3s ease;
 }
-
-/* ==== EFECTO SCROLL ==== */
-
-menu.shrink {
-    height: 5em;
-}
-
-menu.shrink #derecha, #izquierda {
-    height: 2rem;
-}
-
-menu.shrink .logo {
-
-}
-
-menu.shrink .logoimg {
-    display: none;
-    opacity: 0;
-}
-
-menu.shrink .logotexto {
-    visibility: visible;
-    font-size: 2rem;
-    opacity: 1;
-}
-
-menu.shrink .textomenu {
-    color: blue;
-}
-
-menu.shrink #absoluta {
-    height: 0;
-    opacity: 0;
-}
-
 article {
     width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.04);
-    padding-top: 40%;
+    padding-top: 3%;
 }
 
 #anuncio1 {
+    position: relative;
     height: 30em;
     width: 85%;
     background-color: black;
     margin: 0 auto;
     border-radius: 15px;
+    margin-bottom: 4%;
+    overflow: hidden;
 }
 
 #anuncio1 video {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ajusta el video al tamaño del div sin deformarlo */
-    border-radius: 15px; /* Coincide con el borde del div */
-    display: block; /* Elimina espacios fantasmas */
+    object-fit: cover;
+    border-radius: 15px;
+    display: block;
+    z-index: 1;
+}
+
+#a1txt {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    width: 20%;
+    color: white;
+    font-family: "Oswald";
+    font-weight: bold;
+    font-size: 2.5em;
+    z-index: 5;
+    text-align: right;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+#a1txt p {
+    font-size: 0.5em;
+    font-weight: lighter;
+    margin: 0;
+}
+
+#anuncio2 {
+    height: 30em;
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-bottom: 4%;
+}
+
+#a2img {
+    height: 100%;
+    width: 50%;
+    border-radius: 15px;
+    float: left;
+}
+
+#a2imagen {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 15px 0 0 15px;
+    margin: auto;
+}
+
+#a2txt {
+    max-height: 100%;
+    max-width: 50%;
+    border-radius: 15px;
+    float: left;
+    border-radius: 0 15px 15px 0;
+    font-family: "Oswald";
+    font-weight: bold;
+    font-size: 300%;
+    box-sizing: border-box;
+    padding: 3%;
+    color: #334c71;
+}
+
+#a2txt p {
+    font-size: 50%;
+    font-weight: lighter;
+}
+
+#anuncio3 {
+    height: 30em;
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 15px;
+    background-image: url("../Imagenes/chapitas.png");
+    margin-bottom: 4%;
+}
+
+#a3img {
+    height: 100%;
+    width: 50%;
+    border-radius: 15px;
+    float: left;
+}
+
+#a3imagen {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 15px 0 0 15px;
+    margin: auto;
+}
+
+#a3txt {
+    max-height: 100%;
+    max-width: 50%;
+    border-radius: 15px;
+    float: left;
+    border-radius: 0 15px 15px 0;
+    font-family: "Oswald";
+    font-weight: bold;
+    font-size: 300%;
+    box-sizing: border-box;
+    padding: 3%;
+    color: #334c71;
+}
+
+#a3txt p {
+    font-size: 50%;
+    font-weight: lighter;
+}
+
+#anuncio4 {
+    height: 30em;
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-bottom: 4%;
+}
+
+#a4carrusel {
+    height: 100%;
+    width: 50%;
+    border-radius: 15px;
+    float: left;
+    overflow: hidden;
+}
+
+#a4imagen {
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 15px 0 0 15px;
+    border-radius: 0;
+    margin: auto;
+}
+
+#a4txt {
+    max-height: 100%;
+    max-width: 50%;
+    border-radius: 15px;
+    float: left;
+    border-radius: 0 15px 15px 0;
+    font-family: "Oswald";
+    font-weight: bold;
+    font-size: 300%;
+    box-sizing: border-box;
+    padding: 3%;
+    color: #334c71;
+    writing-mode: horizontal-rl;
+}
+
+#a4txt p {
+    font-size: 50%;
+    font-weight: lighter;
 }
