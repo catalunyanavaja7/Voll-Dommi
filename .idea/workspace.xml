@@ -4,6 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="todo junto"/>
+      <change afterPath="$PROJECT_DIR$/.idea/plantillas/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/plantillas/menuPlantilla.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/Inicio.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/Inicio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/html/Inicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/Inicio.html" afterDir="false" />
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="menu fijo y cambia al scrollear"/>
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/IPA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/cerocero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/cerocerolimon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/clasica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/copa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/jarra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/limon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/mediterranea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/posavasos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/tostada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/tostadacerocero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/tropical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/vaso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/css/CLASICA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/css/accesorios.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/css/catalogo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/css/cervezas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/css/vaso.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html/CLASICA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html/Vaso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html/accesorios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html/catalogo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html/cervezas.html" afterDir="false" />
     <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="menu arreglao creo">
       <change afterPath="$PROJECT_DIR$/.idea/Imagenes/logoSoloTexto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/plantillas/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/plantillas/menu.css" afterDir="false" />
@@ -40,14 +69,13 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/catalunyanavaja7/Voll-Dommi.git&quot;,
-    &quot;accountId&quot;: &quot;194514df-7070-44b6-b757-7a996e628e92&quot;
+    &quot;accountId&quot;: &quot;3d5fda00-c793-463a-a714-7b5bb6fcdf67&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="33jlMVE9QHsirca4XBRK8Dvy394" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,9 +83,15 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.CLASICA.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Inicio.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.Mayoria de edad.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Vaso.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.accesorios.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.catalogo.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.cervezas.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -72,6 +106,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tapua\IdeaProjects\Voll-Dommi\.idea\Imagenes" />
       <recent name="C:\Users\yolo1\IdeaProjects\Voll-Dommi\.idea\Imagenes" />
       <recent name="C:\Users\yolo1\IdeaProjects\Voll-Dommi\.idea\html" />
       <recent name="C:\Users\yolo1\IdeaProjects\Voll-Dommi\.idea" />
@@ -80,8 +115,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -97,6 +132,9 @@
       <workItem from="1759863932556" duration="21000" />
       <workItem from="1759990916132" duration="1865000" />
       <workItem from="1759992975240" duration="1579000" />
+      <workItem from="1760352401905" duration="122000" />
+      <workItem from="1760542005555" duration="10850000" />
+      <workItem from="1760594932712" duration="933000" />
       <workItem from="1760076758254" duration="1279000" />
       <workItem from="1760078178406" duration="33000" />
       <workItem from="1760078341538" duration="42000" />
@@ -124,6 +162,7 @@
       <option name="project" value="LOCAL" />
       <updated>1759993040218</updated>
     </task>
+    <option name="localTasksCounter" value="3" />
     <task id="LOCAL-00003" summary="Menú terminao chulo chulo">
       <option name="closed" value="true" />
       <created>1760004257412</created>
@@ -177,6 +216,7 @@
     <MESSAGE value="Principio :D" />
     <MESSAGE value="Segundo commit menú en la primera pagina" />
     <MESSAGE value="Commit de prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de prueba" />
     <MESSAGE value="Menú terminao chulo chulo" />
     <MESSAGE value="menu fijo y cambia al scrollear" />
     <MESSAGE value="todo junto" />

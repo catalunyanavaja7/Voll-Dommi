@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/catalogo.css">
+    <link rel="stylesheet" href="../plantillas/menu.css">
+</head>
+<body>
+<div id="navbar"></div>
+
+<div class="tienda">
+
+    <div id="cerveza">
+        <a href="cervezas.html">
+            <video src="videostock.mp4" autoplay muted loop></video>
+            <div class="overlay"></div>
+            <div class="text">CERVEZA</div>
+        </a>
+    </div>
+
+    <div id="accesorios">
+        <a href="accesorios.html">
+            <video src="videostock.mp4" autoplay muted loop></video>
+            <div class="overlay"></div>
+            <div class="text">ACCESORIOS</div>
+        </a>
+    </div>
+
+    <div id="ropa">
+        <video src="videostock.mp4" autoplay muted loop></video>
+        <div class="overlay"></div>
+        <div class="text">ROPA</div>
+    </div>
+
+    <div id="experiencias">
+        <video src="videostock.mp4" autoplay muted loop></video>
+        <div class="overlay"></div>
+        <div class="text">EXPERIENCIAS</div>
+    </div>
+
+</div>
+
+
+<script>
+    fetch("../plantillas/menuPlantilla.html")
+        .then(res => res.text())
+        .then(html => {
+            document.getElementById("navbar").innerHTML = html;
+            inicializarMenu();
+        })
+
+
+    const navbar = document.getElementById('navbar');
+
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 80) {
+            navbar.classList.add('shrink');
+        } else {
+            navbar.classList.remove('shrink');
+        }
+    });
+</script>
+
+</body>
+</html>
