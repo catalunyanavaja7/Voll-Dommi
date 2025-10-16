@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="menu fijo y cambia al scrollear">
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="todo junto">
+      <change afterPath="$PROJECT_DIR$/.idea/plantillas/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/plantillas/menuPlantilla.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/css/Inicio.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/Inicio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/html/Inicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/Inicio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +104,10 @@
       <workItem from="1760079930211" duration="1368000" />
       <workItem from="1760082015494" duration="13000" />
       <workItem from="1760082033851" duration="8033000" />
-      <workItem from="1760344577790" duration="385000" />
+      <workItem from="1760344577790" duration="5953000" />
+      <workItem from="1760354471173" duration="85000" />
+      <workItem from="1760354575990" duration="5000" />
+      <workItem from="1760595082446" duration="668000" />
     </task>
     <task id="LOCAL-00001" summary="Principio :D">
       <option name="closed" value="true" />
@@ -135,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760091803152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="todo junto">
+      <option name="closed" value="true" />
+      <created>1760345377536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760345377536</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +172,7 @@
     <MESSAGE value="Commit de prueba" />
     <MESSAGE value="Menú terminao chulo chulo" />
     <MESSAGE value="menu fijo y cambia al scrollear" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu fijo y cambia al scrollear" />
+    <MESSAGE value="todo junto" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo junto" />
   </component>
 </project>

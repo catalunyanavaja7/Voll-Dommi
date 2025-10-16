@@ -4,25 +4,10 @@
     <meta charset="UTF-8">
     <title>hola</title>
     <link rel="stylesheet" href="../css/Inicio.css">
+    <link rel="stylesheet" href="../plantillas/menu.css">
 </head>
 <body>
-<menu id="navbar">
-    <div id="izquierda">
-        <a class="textomenu" href="">INICIO</a>
-        <a class="textomenu" href="">TIENDA</a>
-        <a class="textomenu" href="">CONTACTO</a>
-    </div>
-    <div id="logo">
-        <img src="../Imagenes/Voll-Dommi.png" class="logoimg">
-        <span class="logotexto">Voll-Dommí</span>
-    </div>
-    <div id="derecha">
-        <a class="textomenu" href="">CONDICIONES</a>
-        <a class="textomenu" href="">REGISTRO</a>
-        <a class="textomenu" href="">CARRITO</a>
-    </div>
-    <hr id="absoluta">
-</menu>
+<div id="navbar"></div>
 
 <article>
     <div id="anuncio1">
@@ -65,15 +50,19 @@
         </div>
     </div>
 </article>
-
-
-
-
-
-
-
+<footer>
+hola
+</footer>
 
 <script>
+    fetch("../plantillas/menuPlantilla.html")
+        .then(res => res.text())
+        .then(html => {
+            document.getElementById("navbar").innerHTML = html;
+            inicializarMenu();
+        })
+
+
     const navbar = document.getElementById('navbar');
 
     window.addEventListener('scroll', () => {
@@ -84,5 +73,6 @@
         }
     });
 </script>
+
 </body>
 </html>
