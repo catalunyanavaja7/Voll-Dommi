@@ -10,7 +10,6 @@ menu {
     margin: 0 auto;
     position: fixed;
     width: 100%;
-    background: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -54,9 +53,9 @@ menu {
 }
 
 .logotexto {
-    font-weight: bold;
-    visibility: hidden;
-    padding-bottom: 10px;
+    display: none;
+    height: 50px;
+    width: 100%;
     opacity: 0;
     transition: opacity 0.6s ease;
 }
@@ -103,7 +102,8 @@ menu {
 
 /* ==== EFECTO SCROLL ==== */
 
-#navbar.shrink {
+#navbar.shrink menu {
+    background-color: #334c71;
 }
 
 #navbar.shrink #derecha {
@@ -114,17 +114,20 @@ menu {
     height: 2em;
 }
 
+#navbar.shrink .textomenu {
+    color: white;
+}
+
 #navbar.shrink .logoimg {
     display: none;
     opacity: 0;
 }
 
 #navbar.shrink .logotexto {
+    display: block;
     visibility: visible;
-    font-size: 2rem;
-    padding-bottom: 10px;
-
     opacity: 1;
+
 }
 
 #navbar.shrink #absoluta {
