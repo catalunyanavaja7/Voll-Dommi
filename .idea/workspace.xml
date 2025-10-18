@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="todo junto">
     <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="mas cambios ay cabron">
       <change afterPath="$PROJECT_DIR$/.idea/css/logIn.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/html/logIn.html" afterDir="false" />
@@ -43,6 +44,12 @@
     "accountId": "194514df-7070-44b6-b757-7a996e628e92"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/catalunyanavaja7/Voll-Dommi.git&quot;,
+    &quot;accountId&quot;: &quot;e25e4cb6-f854-4cff-b68c-f7a22086cd2d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -90,6 +97,8 @@
       <set>
         <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
         <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -119,6 +128,9 @@
       <workItem from="1760354575990" duration="5000" />
       <workItem from="1760595082446" duration="4016000" />
       <workItem from="1760681651352" duration="61000" />
+      <workItem from="1760595082446" duration="2858000" />
+      <workItem from="1760604677993" duration="208000" />
+      <workItem from="1760619012048" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="Principio :D">
       <option name="closed" value="true" />
@@ -168,6 +180,7 @@
       <option name="project" value="LOCAL" />
       <updated>1760595863100</updated>
     </task>
+    <option name="localTasksCounter" value="3" />
     <task id="LOCAL-00007" summary="mas cambios ay cabron">
       <option name="closed" value="true" />
       <created>1760597978386</created>
@@ -201,6 +214,7 @@
     <MESSAGE value="menu fijo y cambia al scrollear" />
     <MESSAGE value="todo junto" />
     <MESSAGE value="menu arreglao creo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de prueba" />
     <MESSAGE value="mas cambios ay cabron" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit de prueba" />
   </component>
