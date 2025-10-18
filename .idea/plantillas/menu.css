@@ -16,6 +16,7 @@ menu {
     box-sizing: border-box;
     transition: all 0.6s ease;
     z-index: 1000;
+    padding: 0;
 }
 
 #izquierda {
@@ -62,11 +63,11 @@ menu {
 
 .textomenu {
     text-decoration: none;
+    color: black;
     margin-right: 30px;
     font-size: 19px;
     font-family: "Oswald";
     font-weight: bold;
-    color: black;
     position: relative;
     transition: color 0.6s ease;
 }
@@ -127,7 +128,14 @@ menu {
     display: block;
     visibility: visible;
     opacity: 1;
+}
 
+#navbar.shrink .textomenu::after {
+    background: white;
+}
+
+#navbar.shrink .textomenu:hover::after {
+    background: white;
 }
 
 #navbar.shrink #absoluta {

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registro</title>
+    <link rel="stylesheet" href="../css/logIn.css">
+    <link rel="stylesheet" href="../plantillas/menu.css">
+</head>
+<body>
+<div id="navbar"></div>
+<article>
+    <form>
+        <table id="tabla">
+            <tr>
+                <td class="tdIzquierda">Nombre de usuario: </td>
+                <td><input> </td>
+            </tr>
+        </table>
+    </form>
+
+</article>
+
+
+<script>
+    fetch("../plantillas/menuPlantilla.html")
+        .then(res => res.text())
+        .then(html => {
+            document.getElementById("navbar").innerHTML = html;
+            inicializarMenu();
+        })
+
+
+    const navbar = document.getElementById('navbar');
+
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 80) {
+            navbar.classList.add('shrink');
+        } else {
+            navbar.classList.remove('shrink');
+        }
+    });
+</script>
+</body>
+</html>
