@@ -50,7 +50,7 @@ body, html {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: rgb(27, 43, 66);
+    background: rgb(51, 76, 112);
     z-index: 2;
     transition: left 0.7s ease;
 }
@@ -102,7 +102,7 @@ body, html {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: rgb(27, 43, 66);
+    background: rgb(50, 75, 112);
     z-index: 2;
     transition: left 0.7s ease;
 }
@@ -112,7 +112,7 @@ body, html {
 }
 
 #accesorios:hover .text{
-    color: #f5ca54;
+    color: #f7cb54;
     transition: left 0.7s ease;
 }
 
@@ -155,7 +155,7 @@ body, html {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: rgb(27, 43, 66);
+    background: rgb(50, 75, 112);
     z-index: 2;
     transition: left 0.7s ease;
 }
@@ -208,7 +208,7 @@ body, html {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: rgb(27, 43, 66);
+    background: rgb(50, 75, 112);
     z-index: 2;
     transition: left 0.7s ease;
 }

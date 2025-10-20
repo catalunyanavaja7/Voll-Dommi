@@ -10,10 +10,16 @@
     overflow: hidden;
 }
 
+a {
+    text-decoration: none;
+    color: black
+}
+
 #general img.logoanimacion {
     position: relative;
     height: 50vh;
     z-index: 1;
+    pointer-events: none;
     animation: desvanecer 2.5s ease forwards;
 
 }
@@ -21,7 +27,7 @@
 #general img.botellin {
     position: absolute;
     bottom: -100%;
-    width: 30%;
+    width: 12%;
     z-index: 2;
     animation: subir 4s ease-in-out forwards;
 }
@@ -157,11 +163,11 @@ button:hover {
 }
 
 
-#añadirCarrito{
+#añadirCarrito {
     background-color: #334c71;
 }
 
-button.añadir{
+button.añadir {
     margin-left: 2em;
     float: right;
     color: #324b70;
@@ -175,23 +181,24 @@ button.añadir{
     transition: all 0.1s;
 }
 
-button.añadir:active{
+button.añadir:active {
     box-shadow: 0px 2px 0px #d35400;
     position: relative;
     top: 2px;
 }
 
-#carritoCompra{
+#carritoCompra {
     width: 14vh;
     border: none;
     outline: none;
     border-radius: 15px;
     padding: 1em;
     background-color: #ccc;
-    box-shadow: inset 2px 5px 10px rgba(0,0,0,0.3);
+    box-shadow: inset 2px 5px 10px rgba(0, 0, 0, 0.3);
     transition: 300ms ease-in-out;
 }
-#carritoCompra:focus{
+
+#carritoCompra:focus {
     background-color: white;
     transform: scale(1.05);
     box-shadow: 13px 13px 100px #969696,
