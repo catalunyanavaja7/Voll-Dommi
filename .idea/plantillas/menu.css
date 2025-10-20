@@ -5,7 +5,7 @@ body, html {
     margin: 0;
 }
 
-menu {
+nav {
     text-align: center;
     margin: 0 auto;
     position: fixed;
@@ -103,7 +103,7 @@ menu {
 
 /* ==== EFECTO SCROLL ==== */
 
-#navbar.shrink menu {
+#navbar.shrink nav {
     background-color: #334c71;
 }
 
