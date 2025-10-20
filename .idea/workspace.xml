@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="menu fijo y cambia al scrollear">
-      <change afterPath="$PROJECT_DIR$/.idea/css/condiciones.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/contacto.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html/condiciones.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html/contacto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ropa/freepik__add-img2on-the-left-of-the-image-make-her-rest-her__73507.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Imagenes/ropa.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Imagenes/ropa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/css/Inicio.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/Inicio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/Inicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/Inicio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/plantillas/menuPlantilla.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/plantillas/menuPlantilla.html" afterDir="false" />
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="footer, página de contacto y página de condiciones">
+      <change beforePath="$PROJECT_DIR$/.idea/html/logIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/logIn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +111,8 @@
       <workItem from="1760950644294" duration="3537000" />
       <workItem from="1760957136909" duration="259000" />
       <workItem from="1760974551992" duration="302000" />
-      <workItem from="1760980554365" duration="923000" />
+      <workItem from="1760980554365" duration="993000" />
+      <workItem from="1760982120380" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="Principio :D">
       <option name="closed" value="true" />
@@ -154,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760091803152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="footer, página de contacto y página de condiciones">
+      <option name="closed" value="true" />
+      <created>1760981520278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760981520278</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +177,7 @@
     <MESSAGE value="Commit de prueba" />
     <MESSAGE value="Menú terminao chulo chulo" />
     <MESSAGE value="menu fijo y cambia al scrollear" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu fijo y cambia al scrollear" />
+    <MESSAGE value="footer, página de contacto y página de condiciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer, página de contacto y página de condiciones" />
   </component>
 </project>
