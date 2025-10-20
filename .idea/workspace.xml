@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="footer, página de contacto y página de condiciones">
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/bañador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/camiseta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/camisetaDetras.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/clasicav2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/copa1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/copa2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/copa3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/crocs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/gafas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/jarra1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/jarra2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/jarra3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/pvasos1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/pvasos2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/pvasos3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/vaso1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/vaso2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Imagenes/vaso3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/camiseta.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/carrito.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/ropa.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html/Camiseta.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html/carrito.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html/ropa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/videos/accesorios.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/videos/brindis.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/videos/cata.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/videos/ropa.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Imagenes/bartender header.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/css/CLASICA.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/CLASICA.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/css/catalogo.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/catalogo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/css/mayoria de edad.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/css/mayoria de edad.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/CLASICA.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/CLASICA.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/Mayoria de edad.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/Mayoria de edad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/Vaso.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/Vaso.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/accesorios.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/accesorios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/catalogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/catalogo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/cervezas.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/cervezas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/logIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/logIn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html/singIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html/singIn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/plantillas/menuPlantilla.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/plantillas/menuPlantilla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99961fc1-ab7e-41e3-b1ce-1e3a51a73fdb" name="Changes" comment="todo junto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,60 +32,61 @@
     &quot;assignee&quot;: &quot;catalunyanavaja7&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/catalunyanavaja7/Voll-Dommi.git",
-    "accountId": "3d5fda00-c793-463a-a714-7b5bb6fcdf67"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/catalunyanavaja7/Voll-Dommi.git&quot;,
+    &quot;accountId&quot;: &quot;e25e4cb6-f854-4cff-b68c-f7a22086cd2d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="33jlMVE9QHsirca4XBRK8Dvy394" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Inicio.html.executor": "Run",
-    "JavaScript Debug.Mayoria de edad.html.executor": "Run",
-    "JavaScript Debug.accesorios.html.executor": "Run",
-    "JavaScript Debug.ropa.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tapua/IdeaProjects/Voll-Dommi/.idea/Imagenes",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.CLASICA.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Inicio.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Mayoria de edad.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Vaso.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.accesorios.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.catalogo.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.cervezas.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.logIn.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tapua\IdeaProjects\Voll-Dommi\.idea\Imagenes" />
-      <recent name="C:\Users\tapua\IdeaProjects\Voll-Dommi\.idea\videos" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tapua\IdeaProjects\Voll-Dommi\.idea\Imagenes" />
-      <recent name="C:\Users\ruizs\Desktop\Carpeta\1DAM\Programació\RA1\Voll-Dommi\.idea\plantillas" />
-      <recent name="C:\Users\ruizs\Desktop\Carpeta\1DAM\Programació\RA1\Voll-Dommi\.idea\html" />
       <recent name="C:\Users\yolo1\IdeaProjects\Voll-Dommi\.idea\Imagenes" />
       <recent name="C:\Users\yolo1\IdeaProjects\Voll-Dommi\.idea\html" />
+      <recent name="C:\Users\yolo1\IdeaProjects\Voll-Dommi\.idea" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -144,23 +102,23 @@
       <workItem from="1759863932556" duration="21000" />
       <workItem from="1759990916132" duration="1865000" />
       <workItem from="1759992975240" duration="1579000" />
+      <workItem from="1760352401905" duration="122000" />
+      <workItem from="1760542005555" duration="10850000" />
+      <workItem from="1760594932712" duration="933000" />
       <workItem from="1760076758254" duration="1279000" />
       <workItem from="1760078178406" duration="33000" />
       <workItem from="1760078341538" duration="42000" />
       <workItem from="1760079930211" duration="1368000" />
       <workItem from="1760082015494" duration="13000" />
       <workItem from="1760082033851" duration="8033000" />
-      <workItem from="1760344577790" duration="385000" />
-      <workItem from="1760926872366" duration="2425000" />
-      <workItem from="1760929353560" duration="3875000" />
-      <workItem from="1760940555091" duration="1368000" />
-      <workItem from="1760949030959" duration="6000" />
-      <workItem from="1760950644294" duration="3537000" />
-      <workItem from="1760957136909" duration="259000" />
-      <workItem from="1760974551992" duration="302000" />
-      <workItem from="1760980554365" duration="993000" />
-      <workItem from="1760982120380" duration="1699000" />
-      <workItem from="1760985399564" duration="1787000" />
+      <workItem from="1760344577790" duration="5953000" />
+      <workItem from="1760354471173" duration="85000" />
+      <workItem from="1760354575990" duration="5000" />
+      <workItem from="1760595082446" duration="4016000" />
+      <workItem from="1760681651352" duration="61000" />
+      <workItem from="1760595082446" duration="2858000" />
+      <workItem from="1760604677993" duration="208000" />
+      <workItem from="1760619012048" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="Principio :D">
       <option name="closed" value="true" />
@@ -194,15 +152,31 @@
       <option name="project" value="LOCAL" />
       <updated>1760091803152</updated>
     </task>
-    <task id="LOCAL-00005" summary="footer, página de contacto y página de condiciones">
+    <task id="LOCAL-00005" summary="todo junto">
       <option name="closed" value="true" />
-      <created>1760981520278</created>
+      <created>1760345377536</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1760981520278</updated>
+      <updated>1760345377536</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="menu arreglao creo">
+      <option name="closed" value="true" />
+      <created>1760595863100</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760595863100</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mas cambios ay cabron">
+      <option name="closed" value="true" />
+      <created>1760597978386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760597978386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +199,9 @@
     <MESSAGE value="Commit de prueba" />
     <MESSAGE value="Menú terminao chulo chulo" />
     <MESSAGE value="menu fijo y cambia al scrollear" />
-    <MESSAGE value="footer, página de contacto y página de condiciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer, página de contacto y página de condiciones" />
+    <MESSAGE value="todo junto" />
+    <MESSAGE value="menu arreglao creo" />
+    <MESSAGE value="mas cambios ay cabron" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de prueba" />
   </component>
 </project>
