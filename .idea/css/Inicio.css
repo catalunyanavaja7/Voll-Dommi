@@ -177,9 +177,3 @@ article {
     font-size: 50%;
     font-weight: lighter;
 }
-
-footer {
-    width: 100%;
-    background-color: red;
-    display: flex;
-}
