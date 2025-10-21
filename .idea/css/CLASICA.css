@@ -27,7 +27,7 @@ a {
 #general img.botellin {
     position: absolute;
     bottom: -100%;
-    width: 12%;
+    width:12%;
     z-index: 2;
     animation: subir 4s ease-in-out forwards;
 }
